@@ -1,0 +1,22 @@
+{
+  "name": "connecting-from-javascript-assignment",
+  "version": "1.0.0",
+  "description": "Connecting from JavaScript Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saunderst/Connecting-from-JavaScript-Assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saunderst/Connecting-from-JavaScript-Assignment/issues"
+  },
+  "homepage": "https://github.com/saunderst/Connecting-from-JavaScript-Assignment#readme",
+  "dependencies": {
+    "pg": "^7.4.1"
+  }
+}
