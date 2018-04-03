@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/saunderst/Connecting-from-JavaScript-Assignment#readme",
   "dependencies": {
+    "knex": "^0.14.4",
+    "moment": "^2.22.0",
     "pg": "^7.4.1"
   }
 }
